@@ -78,7 +78,7 @@ const info = {
 
     education: [
         {
-            school: "KALPATARU INSTITUTION OF TECHNOLOGY",
+            school: "KALPATARU INSTITUTE OF TECHNOLOGY",
             degree: "B.Tech in Electronics and Communication",
             year: "2022 - 2026",
            // image: "kitslogo.jpg"
