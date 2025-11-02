@@ -81,7 +81,7 @@ const info = {
             school: "Kalpaturu institution of technolofy",
             degree: "B.Tech in Electronics and communication",
             year: "2022 - 2026",
-            image: "kitslogo.jpg"
+           // image: "kitslogo.jpg"
         },
         // {
         //     school: "sri gowthami junior college ",
