@@ -93,10 +93,10 @@ const info = {
 
     contact: {
         title: "Reach Out and Connect",
-        description: "Thank you for your interest in connecting with me. I welcome your feedback, questions, and suggestions. If you have a specific inquiry or comment, please feel free to email me directly at bitrasrinivaspavan@gmail.com. I strive to respond to all messages within 24 hours, but please allow a bit more time during busy periods. Alternatively, if you prefer to connect on social media, you can find me using the links provided below.",
+        description: "Thank you for your interest in connecting with me. I welcome your feedback, questions, and suggestions. If you have a specific inquiry or comment, please feel free to email me directly at aishwaryacs70@gmail.com. I strive to respond to all messages within 24 hours, but please allow a bit more time during busy periods. Alternatively, if you prefer to connect on social media, you can find me using the links provided below.",
     },
 
-    footer: "© 2026 Aishwarya c s. All Rights Reserved"
+    footer: "© 2026 Aishwarya c s. All Rights Reserved."
 }
 
 export default info
