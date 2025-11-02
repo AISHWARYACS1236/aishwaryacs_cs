@@ -8,7 +8,7 @@ const info = {
         tracking_id: "G-BNTTBGHXSC"
     },
     resume: {
-        link: "../https://drive.google.com/file/d/1DExL2jlqvEMUHKXLHkiq8rnd3HPco3Oc/view?usp=drivesdk" // Replace with your actual resume URL
+        link: "../aishwarya.pdf" // Replace with your actual resume URL
       },
     
 
